@@ -33,7 +33,7 @@ BIJECTIVES_FUNCTIONS = [identity, exponential, logarithm, square_root, cube, inv
 
 
 def decoder():
-    
+    pass
     
 
 

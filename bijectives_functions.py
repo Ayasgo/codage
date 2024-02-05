@@ -1,4 +1,4 @@
-# Il y a 30 func
+# Il y a 30 fonctions
 import numpy as np
 
 # Fonction identité
